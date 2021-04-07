@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @davidjnevin
 - 👀 I’m interested in creative writing, primarily fiction.
 - 🌱 I’m currently learning umbraco and hugo to build my sites and publish a magazine.
+- 📖 Exploring VIM editor and Obsidian/Foam as my note taking app. 
 
 
 <!---
