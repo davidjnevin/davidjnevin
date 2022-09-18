@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @davidjnevin
-- 👀 I’m building in Python, Django.
-- 📖 PostgreSQL
+- 👀 I’m building in Python & Django.
+- 📖 PostgreSQL 
 
-- 🧩 Developed a text heavy database App using .NET 6 and Blazor Pages.
-- ✨ Learning SQL, Mongodb
+- 🧩 Full stack developed a text heavy database App using .NET 6 and Blazor Pages.
+- ✨ Learning SQL, Mongodb [www.critiquewheel.com](https://www.critiquewheel.com)
 
 - 🧩 CSS and designing front end experiences.
 
