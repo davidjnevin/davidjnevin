@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @davidjnevin
-- 👀 I’m interested in creative writing, primarily fiction.
-- 📖 Exploring VIM editor and Obsidian as my note taking app.
-- 🧩 Developed a database App using .NET 6 and Blazor Pages.
+- 👀 I’m building in Python, Django.
+- 📖 PostgreSQL
+
+- 🧩 Developed a text heavy database App using .NET 6 and Blazor Pages.
 - ✨ Learning SQL, Mongodb
-- 📖 Learning Python, Django
+
 - 🧩 CSS and designing front end experiences.
 
 <!---
