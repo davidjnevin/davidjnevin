@@ -2,7 +2,7 @@
 - 👀 I’m building in Python & Django.
 - 📖 PostgreSQL, AWS Cloud  
 
-- 🧩 2020: Full stack developed a text heavy database App using .NET 6 and Razor Pages, MySQL, Identity Framework.
+- 🧩 2020: Full stack developed a text heavy database App using .NET 5 and Razor Pages, MySQL, Identity Framework.
 -  [www.critiquewheel.com](https://www.critiquewheel.com)
 
 <!---
