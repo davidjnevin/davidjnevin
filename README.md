@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidjnevin
-- 👀 I’m building in Python.
-- 📖 Django, Ninja-django, Docker ...   
+- 👀 I’m building in Python and React
+- 📖 Django, Ninja-django, fastApi, Docker, Redis, PostgreSQL ...   
 
 - 🧩 2020: Full stack developed a text heavy database App using .NET 5 and Razor Pages, MySQL, Identity Framework.
 -  [www.critiquewheel.com](https://www.critiquewheel.com)
