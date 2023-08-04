@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @davidjnevin
-- 👀 I’m building in Python
-- 📖 Django, fastApi, Docker, Redis, PostgreSQL ...   
 
-- 🧩 2020: Full stack developed a text heavy database App using .NET 5 and Razor Pages, MySQL, Identity Framework.
+- 🧩 I’m a backend developer building in python. I’m focused on supporting fiction writers improving their craft at Critiquewheel, and I'm open to new job oppurtunities as a backend developer.
+
 -  [www.critiquewheel.com](https://www.critiquewheel.com)
   
 -  Portfolio at [https://davidnevin.net](https://davidnevin.net)
